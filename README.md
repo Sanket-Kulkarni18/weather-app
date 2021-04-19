@@ -1,3 +1,10 @@
+# To know the current temperature of your City click the link given below!!!
+
+https://today-weather-app.netlify.app/
+
+### By doing this project I get very nice knowledge about handling APIs. 
+## Thank You.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
